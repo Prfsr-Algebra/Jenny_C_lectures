@@ -1,4 +1,4 @@
-tted_output.c: printf function
+formatted_output.c: printf function
 
 formatted_input.c: scanf function
 
